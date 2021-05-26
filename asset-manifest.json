@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rental_manager/static/css/main.827dce3f.chunk.css",
+    "main.js": "/rental_manager/static/js/main.2a3db850.chunk.js",
+    "main.js.map": "/rental_manager/static/js/main.2a3db850.chunk.js.map",
+    "runtime-main.js": "/rental_manager/static/js/runtime-main.022be28e.js",
+    "runtime-main.js.map": "/rental_manager/static/js/runtime-main.022be28e.js.map",
+    "static/js/2.3a48be06.chunk.js": "/rental_manager/static/js/2.3a48be06.chunk.js",
+    "static/js/2.3a48be06.chunk.js.map": "/rental_manager/static/js/2.3a48be06.chunk.js.map",
+    "static/js/3.bfd0687e.chunk.js": "/rental_manager/static/js/3.bfd0687e.chunk.js",
+    "static/js/3.bfd0687e.chunk.js.map": "/rental_manager/static/js/3.bfd0687e.chunk.js.map",
+    "index.html": "/rental_manager/index.html",
+    "static/css/main.827dce3f.chunk.css.map": "/rental_manager/static/css/main.827dce3f.chunk.css.map",
+    "static/js/2.3a48be06.chunk.js.LICENSE.txt": "/rental_manager/static/js/2.3a48be06.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rental_manager/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.022be28e.js",
+    "static/js/2.3a48be06.chunk.js",
+    "static/css/main.827dce3f.chunk.css",
+    "static/js/main.2a3db850.chunk.js"
+  ]
+}
